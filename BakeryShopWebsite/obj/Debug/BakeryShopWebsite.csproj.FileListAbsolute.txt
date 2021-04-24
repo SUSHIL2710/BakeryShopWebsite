@@ -1,0 +1,11 @@
+C:\Users\sagar\onedrive\documents\visual studio 2010\Projects\BakeryShopWebsite\BakeryShopWebsite\bin\BakeryShopWebsite.dll
+C:\Users\sagar\onedrive\documents\visual studio 2010\Projects\BakeryShopWebsite\BakeryShopWebsite\bin\BakeryShopWebsite.pdb
+C:\Users\sagar\onedrive\documents\visual studio 2010\Projects\BakeryShopWebsite\BakeryShopWebsite\obj\Debug\BakeryShopWebsite.dll
+C:\Users\sagar\onedrive\documents\visual studio 2010\Projects\BakeryShopWebsite\BakeryShopWebsite\obj\Debug\BakeryShopWebsite.pdb
+C:\Users\sagar\onedrive\documents\visual studio 2010\Projects\BakeryShopWebsite\BakeryShopWebsite\obj\Debug\BakeryShopWebsite.csprojResolveAssemblyReference.cache
+D:\BakeryShopWebsite\BakeryShopWebsite\bin\BakeryShopWebsite.dll
+D:\BakeryShopWebsite\BakeryShopWebsite\bin\BakeryShopWebsite.pdb
+D:\BakeryShopWebsite\BakeryShopWebsite\obj\Debug\BakeryShopWebsite.csprojResolveAssemblyReference.cache
+D:\BakeryShopWebsite\BakeryShopWebsite\obj\Debug\BakeryShopWebsite.dll
+D:\BakeryShopWebsite\BakeryShopWebsite\obj\Debug\BakeryShopWebsite.pdb
+D:\BakeryShopWebsite\BakeryShopWebsite\bin\itextsharp.dll
